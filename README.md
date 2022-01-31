@@ -1,2 +1,2 @@
 # World-Time
- I had done World Clock wbbsite using html and css
+ I had done World Clock website using html and css
